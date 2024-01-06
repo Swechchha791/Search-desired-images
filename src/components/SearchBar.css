@@ -1,0 +1,23 @@
+.search-bar {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 1rem 1rem;
+    border: 1px solid #002185;
+}
+
+.search-bar form {
+    display: flex;
+    flex-direction: column;
+    color: #002185;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.search-bar .input-field{
+    padding: .6rem .8rem;
+    border-radius: 1rem;
+    border: none;
+    margin-top: 1rem;
+    font-size: 1rem;
+    box-shadow: 0 0 4px 6px rgba(162, 185, 255, 0.907);;
+}
